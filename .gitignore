@@ -1,0 +1,9 @@
+# Latex auxiliary files
+*.aux
+*.toc
+*.dvi
+*.log
+
+# Emacs temporary and backup files
+*~
+\#*#
