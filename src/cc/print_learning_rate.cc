@@ -5,7 +5,7 @@
 
 int main(int argc, char* argv[]) {
   for (int i = 1; i < 1000; i++) {
-    std::cout << i << "\t" << learning_rate(i, i) << std::endl;
+    std::cout << i << "\t" << learning_rate(i, 1000) << std::endl;
   }
   return 0;
 }
